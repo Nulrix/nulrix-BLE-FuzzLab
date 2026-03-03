@@ -145,6 +145,4 @@ This tool is intended for:
 
 The developers assume no liability and are not responsible for any misuse or damage caused by this program. Users are solely responsible for ensuring their compliance with all applicable laws and regulations.
 
-Created by CTF Tool Maker for educational and authorized security testing use.
 
-Remember: With great power comes great responsibility. Always hack ethically! 🔒
